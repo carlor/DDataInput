@@ -1,0 +1,17 @@
+
+Note: the TODOs in the soure code are refactoring TODOs, this stuff is features
+and bug fixes.
+
+Todo for (0.1):
+    Mistake fixing
+
+Todo for (0.2):
+    File browser for Windows
+
+Todo for (0.3):
+    Even table
+    Settings modification
+        Headers
+        Save-As
+    Exception-proof it
+

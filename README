@@ -1,0 +1,7 @@
+DDataInput is an application for easily inputting data into a spreadsheet,
+written in the D programming language (dlang.org).
+
+Licensed under the Boost Software License (LICENSE).
+
+To compile, type "dmd @build.rf", and an executable will appear in the bin
+folder.

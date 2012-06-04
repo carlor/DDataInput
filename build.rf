@@ -1,0 +1,11 @@
+-od"bin"
+-of"bin/DDataInput"
+-Jres
+
+-I"src"
+
+"src/ddi/color.d"
+"src/ddi/csv.d"
+"src/ddi/io.d"
+"src/ddi/main.d"
+"src/ddi/msg.d"
